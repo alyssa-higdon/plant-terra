@@ -1,3 +1,3 @@
-module server/plant-terra
+module plant-terra
 
 go 1.22.5
